@@ -1,0 +1,3 @@
+[submodule "submodel1"]
+	path = submodel1
+	url = https://github.com/is-itmo-c-22/labwork-3-alenaKuznetsovaSev
